@@ -2,7 +2,7 @@
 DMP - Sketching mit Hardware WS2627
 
 Changing the Blink Rate a LED using the Serial Monitor as Input
-Marcos Martinez
+Marcos Martinez / Laura Bieker-Walz
 */
 
 #define LED_PIN 12
