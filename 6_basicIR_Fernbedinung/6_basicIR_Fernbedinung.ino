@@ -1,7 +1,7 @@
 /*
    Sketching mit Hardware
   DMP - SWH - WS2627
-  - IR Remote (Fernbedinung) DEMO - Üb 5
+  - IR Remote (Fernbedinung) DEMO - Üb 6
   This project demonstrates how to use a Remote and a IR-Sensor to
   control your Arduino
   WIEKER-WALZ / MARTINEZ
